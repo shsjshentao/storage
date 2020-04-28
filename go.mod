@@ -3,7 +3,7 @@ module github.com/containers/storage
 require (
 	github.com/BurntSushi/toml v0.3.1
 	github.com/Microsoft/go-winio v0.4.15-0.20190919025122-fc70bd9a86b5
-	github.com/Microsoft/hcsshim v0.8.7
+	github.com/Microsoft/hcsshim v0.8.8
 	github.com/docker/go-units v0.4.0
 	github.com/hashicorp/go-multierror v1.0.0
 	github.com/klauspost/compress v1.10.4
